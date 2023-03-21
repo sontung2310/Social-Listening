@@ -1,0 +1,18 @@
+Text: '''Tất cả là quá ổn , gét mỗi cái là mặt camera để dễ bị xước kinh khủng khiếp luôn'''
+Sentiment: Positive
+###
+Text: '''Máy lag, không nhúc nhích được, TGDD thì không cho đổi trả. Đã mua rất nhiều ở TGDD và đây là lần cuối cùng. Thề tẩy chay TGDD'''
+Sentiment: Negative
+###
+Text: '''Sp tạm được, hơi rộng so vs mình'''
+Sentiment: Neutral
+###
+Text: '''Chất lượng sản phẩm tuyệt vời nhưng màu k giống hình minh đặt'''
+Sentiment: Positive
+###
+Text: '''Áo khá mỏng và cụt hơn mình nghĩ Đóng gói sản phẩm ok'''
+Sentiment: Negative
+###
+Text: '''Rất đáng tiền, tuy nhiên vải ko được co giãn lắm, nếu là bạn gái từ 55k trở lên thì khó mặc'''
+Sentiment: Neutral
+###

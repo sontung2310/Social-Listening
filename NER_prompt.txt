@@ -1,0 +1,13 @@
+###
+Sentence: Disney chính thức tung trailer "Nàng Tiên Cá" phiên bản Live-action "The Little Mermaid" sẽ được phát hành vào ngày 26/5 tới.
+Named-Entity: Disney, Nàng Tiên Cá, The Little Mermaid, ngày 26/5
+###
+Sentence: '''Hóng Hớt Showbiz Sau khi “oanh tạc” Super Bowl với màn biểu diễn xuất thần, mẹ bầu Rihanna xuất hiện ngầu đét trên thảm đỏ lễ trao giải Oscars lần thứ 95🤰 Cô sẽ biểu diễn ca khúc “Lift Me Up” trong bộ phim Black Panther: Wakanda Forever.'''
+Named-Entity: Hóng Hớt Showbiz, Super Bowl, Rihanna, Oscars, Black Panther, Wakanda Forever, ca khúc “Lift Me Up”
+###
+Sentence: '''cái tôi cần là apple giảm giá dòng này, giảm sâu vào, tôi mua ngay, bỏ cái gì mà bỏ 14 plus sinh ra là để phục vụ chiến lược marketing. thúc đẩy doanh số các dòng khác. (con này có mất mấy công sức thiết kế đâu, còn sản lượng sản xuất thì nó kiểm soát sản xuất ít hay nhiều tuỳ ý. Nó cố tình ra con này để phục vụ các dòng khác thôi).'''
+Named-Entity: apple, 14 plus, chiến lược marketing, doanh số
+###
+Sentence: ''' Em mới mua winner v3 được 3 tháng bán rồi. ( Nói chung yếu) giờ mình mới mua được con r15v4 được 1tuần rồi thích thật cảm xúc mạnh mẽ hơn hẳn anh em ạ.'''
+Named-Entity: winner v3, r15v4
+###

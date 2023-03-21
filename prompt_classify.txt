@@ -1,0 +1,10 @@
+###
+Text: '''Trùm Wagner nói các tay súng sắp được tiếp tế đạn'''
+Topic: Chiến tranh
+###
+Text: '''Song Joong Ki: 'Vợ xoa dịu sự tức giận trong tôi''''
+Topic: Giải trí
+###
+Text: '''Sao nào trong hệ Mặt Trời bị 'hạ cấp' không còn là hành tinh?'''
+Topic: Khác
+###
